@@ -43,6 +43,10 @@
     outline: none;
     border: none;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-family: 'Mali', cursive;
+
   }
   
   .restart-btn:hover {
@@ -96,6 +100,10 @@
 
 .text-lose{
     color: var(--lose-color);
+}
+
+.text-draw{
+    color: var(--primary-color)
 }
   
 
